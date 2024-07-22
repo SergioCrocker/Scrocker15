@@ -1,7 +1,7 @@
 # Scrocker15
 Scro123
 
-I help developers reach their goals with my training and scrocker15.
+Helped me get development information and scrocker15.
 
 #### Where to find me 
 
